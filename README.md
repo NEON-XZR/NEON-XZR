@@ -1,4 +1,4 @@
-# Hello My name is Rifqy im from Indonesia and i just like to play and contribute in mindustry
+# Heyho! I'm NEON-XZR. I'm just ordinary 13 yo teen who like to draws, make music and drawing
 
 ==========================================================================
 

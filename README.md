@@ -7,7 +7,7 @@
 ### That's is my logo
 
 =======================================
-#### [my Youtube](https://www.youtube.com/channel/UC8rk0VpMpoX3XPeqGLewCtw),[my Blog](https://rifqyblogs.blogspot.com/),[my Betta fish Instagram](https://www.instagram.com/rifqy_cupang_pemula/?hl=en)
+#### [my Youtube](https://www.youtube.com/channel/UC8rk0VpMpoX3XPeqGLewCtw) ,[Instagram](https://www.instagram.com/rifqy_samudera/?hl=en)
 
 ================================
 #### yep is Indonesian

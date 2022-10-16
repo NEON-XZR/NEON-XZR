@@ -7,7 +7,7 @@
 ### That's is my logo
 
 =======================================
-#### [my Youtube](https://www.youtube.com/channel/UC8rk0VpMpoX3XPeqGLewCtw) ,[Instagram](https://www.instagram.com/rifqy_samudera/?hl=en)
+#### [Youtube](https://www.youtube.com/channel/UC8rk0VpMpoX3XPeqGLewCtw) ,[Instagram](https://www.instagram.com/rifqy_samudera/?hl=en)
 
 ================================
 #### yep is Indonesian

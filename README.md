@@ -1,4 +1,4 @@
-# Heyho! I'm NEON-XZR. I'm just ordinary 13 yo teen who like to draws, make music and drawing
+# Heyho! I'm NEON-XZR. I'm just ordinary 13 yo teen who like to draws, make music and drawing.
 
 ==========================================================================
 

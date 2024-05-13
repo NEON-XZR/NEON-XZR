@@ -1,8 +1,7 @@
-<div style="position: relative; width: 100%; height: 0; padding-top: 100.0000%;
- padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
- border-radius: 8px; will-change: transform;">
-  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
-    src="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGFIB-2Bk8&#x2F;ClRTSWxrnWhGtZ0uaCggAQ&#x2F;view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
-  </iframe>
-</div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGFIB-2Bk8&#x2F;ClRTSWxrnWhGtZ0uaCggAQ&#x2F;view?utm_content=DAGFIB-2Bk8&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Black Transparent Corporate Personal Profile Instagram Post</a> oleh Rifqy Content Creator
+# Hello!
+>**I'm Neon XZR, Contributor of [Mindustry Expansion](https://github.com/zuoranartemwing/MindustryExpansion/tree/main/sprites/blocks/power/LH%20Industry) by [@zuoranartemwing](https://github.com/zuoranartemwing)!**
+
+![profile](https://github.com/NEON-XZR/NEON-XZR/blob/main/Gambar/%5BUkuran%20asli%5D%20Black%20Transparent%20Corporate%20Personal%20Profile%20Instagram%20Post.png)
+
+> [!NOTE]
+> I'm only use this account to contribute to Mindustry Expansion for now, so don't expect me to be as active as other.
